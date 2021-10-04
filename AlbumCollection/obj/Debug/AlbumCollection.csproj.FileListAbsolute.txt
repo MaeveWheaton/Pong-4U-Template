@@ -1,0 +1,10 @@
+C:\Users\Owner\Documents\Gr. 12\ICS4U\AlbumCollection\bin\Debug\AlbumCollection.exe.config
+C:\Users\Owner\Documents\Gr. 12\ICS4U\AlbumCollection\bin\Debug\AlbumCollection.exe
+C:\Users\Owner\Documents\Gr. 12\ICS4U\AlbumCollection\bin\Debug\AlbumCollection.pdb
+C:\Users\Owner\Documents\Gr. 12\ICS4U\AlbumCollection\obj\Debug\AlbumCollection.csproj.AssemblyReference.cache
+C:\Users\Owner\Documents\Gr. 12\ICS4U\AlbumCollection\obj\Debug\AlbumCollection.Form1.resources
+C:\Users\Owner\Documents\Gr. 12\ICS4U\AlbumCollection\obj\Debug\AlbumCollection.Properties.Resources.resources
+C:\Users\Owner\Documents\Gr. 12\ICS4U\AlbumCollection\obj\Debug\AlbumCollection.csproj.GenerateResource.cache
+C:\Users\Owner\Documents\Gr. 12\ICS4U\AlbumCollection\obj\Debug\AlbumCollection.csproj.CoreCompileInputs.cache
+C:\Users\Owner\Documents\Gr. 12\ICS4U\AlbumCollection\obj\Debug\AlbumCollection.exe
+C:\Users\Owner\Documents\Gr. 12\ICS4U\AlbumCollection\obj\Debug\AlbumCollection.pdb

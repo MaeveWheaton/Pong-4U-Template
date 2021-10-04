@@ -1,0 +1,12 @@
+C:\Users\Owner\Documents\Gr. 12\ICS4U\LoginScreen\bin\Debug\LoginScreen.exe.config
+C:\Users\Owner\Documents\Gr. 12\ICS4U\LoginScreen\bin\Debug\LoginScreen.exe
+C:\Users\Owner\Documents\Gr. 12\ICS4U\LoginScreen\bin\Debug\LoginScreen.pdb
+C:\Users\Owner\Documents\Gr. 12\ICS4U\LoginScreen\obj\Debug\LoginScreen.csproj.AssemblyReference.cache
+C:\Users\Owner\Documents\Gr. 12\ICS4U\LoginScreen\obj\Debug\LoginScreen.Form1.resources
+C:\Users\Owner\Documents\Gr. 12\ICS4U\LoginScreen\obj\Debug\LoginScreen.LoginScreen.resources
+C:\Users\Owner\Documents\Gr. 12\ICS4U\LoginScreen\obj\Debug\LoginScreen.MainScreen.resources
+C:\Users\Owner\Documents\Gr. 12\ICS4U\LoginScreen\obj\Debug\LoginScreen.Properties.Resources.resources
+C:\Users\Owner\Documents\Gr. 12\ICS4U\LoginScreen\obj\Debug\LoginScreen.csproj.GenerateResource.cache
+C:\Users\Owner\Documents\Gr. 12\ICS4U\LoginScreen\obj\Debug\LoginScreen.csproj.CoreCompileInputs.cache
+C:\Users\Owner\Documents\Gr. 12\ICS4U\LoginScreen\obj\Debug\LoginScreen.exe
+C:\Users\Owner\Documents\Gr. 12\ICS4U\LoginScreen\obj\Debug\LoginScreen.pdb

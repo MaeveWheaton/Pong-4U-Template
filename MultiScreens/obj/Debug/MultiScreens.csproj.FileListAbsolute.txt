@@ -1,0 +1,12 @@
+C:\Users\Owner\Documents\Gr. 12\ICS4U\MultiScreens\bin\Debug\MultiScreens.exe.config
+C:\Users\Owner\Documents\Gr. 12\ICS4U\MultiScreens\bin\Debug\MultiScreens.exe
+C:\Users\Owner\Documents\Gr. 12\ICS4U\MultiScreens\bin\Debug\MultiScreens.pdb
+C:\Users\Owner\Documents\Gr. 12\ICS4U\MultiScreens\obj\Debug\MultiScreens.csproj.AssemblyReference.cache
+C:\Users\Owner\Documents\Gr. 12\ICS4U\MultiScreens\obj\Debug\MultiScreens.Form1.resources
+C:\Users\Owner\Documents\Gr. 12\ICS4U\MultiScreens\obj\Debug\MultiScreens.Properties.Resources.resources
+C:\Users\Owner\Documents\Gr. 12\ICS4U\MultiScreens\obj\Debug\MultiScreens.csproj.GenerateResource.cache
+C:\Users\Owner\Documents\Gr. 12\ICS4U\MultiScreens\obj\Debug\MultiScreens.csproj.CoreCompileInputs.cache
+C:\Users\Owner\Documents\Gr. 12\ICS4U\MultiScreens\obj\Debug\MultiScreens.exe
+C:\Users\Owner\Documents\Gr. 12\ICS4U\MultiScreens\obj\Debug\MultiScreens.pdb
+C:\Users\Owner\Documents\Gr. 12\ICS4U\MultiScreens\obj\Debug\MultiScreens.MainScreen.resources
+C:\Users\Owner\Documents\Gr. 12\ICS4U\MultiScreens\obj\Debug\MultiScreens.GameScreen.resources

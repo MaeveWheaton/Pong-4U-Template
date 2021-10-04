@@ -1,0 +1,10 @@
+C:\Users\Owner\Documents\Gr. 12\ICS4U\DrawingShapes\bin\Debug\DrawingShapes.exe.config
+C:\Users\Owner\Documents\Gr. 12\ICS4U\DrawingShapes\bin\Debug\DrawingShapes.exe
+C:\Users\Owner\Documents\Gr. 12\ICS4U\DrawingShapes\bin\Debug\DrawingShapes.pdb
+C:\Users\Owner\Documents\Gr. 12\ICS4U\DrawingShapes\obj\Debug\DrawingShapes.csproj.AssemblyReference.cache
+C:\Users\Owner\Documents\Gr. 12\ICS4U\DrawingShapes\obj\Debug\DrawingShapes.Form1.resources
+C:\Users\Owner\Documents\Gr. 12\ICS4U\DrawingShapes\obj\Debug\DrawingShapes.Properties.Resources.resources
+C:\Users\Owner\Documents\Gr. 12\ICS4U\DrawingShapes\obj\Debug\DrawingShapes.csproj.GenerateResource.cache
+C:\Users\Owner\Documents\Gr. 12\ICS4U\DrawingShapes\obj\Debug\DrawingShapes.csproj.CoreCompileInputs.cache
+C:\Users\Owner\Documents\Gr. 12\ICS4U\DrawingShapes\obj\Debug\DrawingShapes.exe
+C:\Users\Owner\Documents\Gr. 12\ICS4U\DrawingShapes\obj\Debug\DrawingShapes.pdb
